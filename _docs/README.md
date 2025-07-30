@@ -1,2 +1,6 @@
 - github: https://github.com/xinnan-tech/xiaozhi-esp32-server
-    - fork: 
+    - fork: https://github.com/Lightblues/xiaozhi-esp32-server
+- doc:
+    - deepwiki: https://deepwiki.com/xinnan-tech/xiaozhi-esp32-server
+- ref:
+    - xiaozhi-esp32: https://github.com/78/xiaozhi-esp32
